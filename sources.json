@@ -21,7 +21,7 @@
       "PHP 7.4.33": "https://windows.php.net/downloads/releases/php-7.4.33-Win32-vc15-x86.zip"
     }
   },
-  "vs": {
+  "vc": {
     "Apache 2.4.63 x64": {
       "link": "https://aka.ms/vs/17/release/VC_redist.x64.exe",
       "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64)"

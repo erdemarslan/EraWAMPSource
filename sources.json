@@ -24,11 +24,13 @@
   "vc": {
     "Apache 2.4.63 x64": {
       "link": "https://aka.ms/vs/17/release/VC_redist.x64.exe",
-      "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64)"
+      "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64)",
+      "searchText": "Microsoft.VCRedist.2015+.x64"
     },
     "Apache 2.4.63 x32": {
       "link": "https://aka.ms/vs/17/release/VC_redist.x86.exe",
-      "name": "Microsoft Visual C++ 2015-2022 Redistributable (x86)"
+      "name": "Microsoft Visual C++ 2015-2022 Redistributable (x86)",
+      "searchText": "Microsoft.VCRedist.2015+.x86"
     }
   },
   "database": {

@@ -34,7 +34,8 @@
     }
   },
   "database": {
-    "MariaDB 11.4.5": "https://mariadb.mirror.wearetriple.com/mariadb-11.4.5/winx64-packages/mariadb-11.4.5-winx64.msi",
-    "MariaDB 10.11.11": "https://mirror.23m.com/mariadb/mariadb-10.11.11/winx64-packages/mariadb-10.11.11-winx64.msi"
+    "MariaDB 11.4.5": "https://dlm.mariadb.com/4047851/MariaDB/mariadb-11.4.5/winx64-packages/mariadb-11.4.5-winx64.msi",
+    "MariaDB 10.11.11": "https://dlm.mariadb.com/4041431/MariaDB/mariadb-10.11.11/winx64-packages/mariadb-10.11.11-winx64.msi",
+    "MariaDB 10.6.21": "https://dlm.mariadb.com/4034162/MariaDB/mariadb-10.6.21/winx64-packages/mariadb-10.6.21-winx64.msi"
   }
 }

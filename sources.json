@@ -9,20 +9,56 @@
   },
   "php": {
     "Apache 2.4.63 x64": {
-      "PHP 8.4.5": "https://windows.php.net/downloads/releases/archives/php-8.4.5-Win32-vs17-x64.zip",
-      "PHP 8.3.19": "https://windows.php.net/downloads/releases/archives/php-8.3.19-Win32-vs16-x64.zip",
-      "PHP 8.2.27": "https://windows.php.net/downloads/releases/archives/php-8.2.27-Win32-vs16-x64.zip",
-      "PHP 8.1.31": "https://windows.php.net/downloads/releases/archives/php-8.1.31-Win32-vs16-x64.zip",
-      "PHP 8.0.30": "https://windows.php.net/downloads/releases/archives/php-8.0.30-Win32-vs16-x64.zip",
-      "PHP 7.4.33": "https://windows.php.net/downloads/releases/archives/php-7.4.33-Win32-vc15-x64.zip"
+      "PHP 8.4.8": {
+        "ts": "https://windows.php.net/downloads/releases/php-8.4.8-Win32-vs17-x64.zip",
+        "nts": "https://windows.php.net/downloads/releases/php-8.4.8-nts-Win32-vs17-x64.zip"
+      },
+      "PHP 8.3.22": {
+        "ts": "https://windows.php.net/downloads/releases/php-8.3.22-Win32-vs16-x64.zip",
+        "nts": "https://windows.php.net/downloads/releases/php-8.3.22-nts-Win32-vs16-x64.zip"
+      },
+      "PHP 8.2.28": {
+        "ts": "https://windows.php.net/downloads/releases/php-8.2.28-Win32-vs16-x64.zip",
+        "nts": "https://windows.php.net/downloads/releases/php-8.2.28-nts-Win32-vs16-x64.zip"
+      },
+      "PHP 8.1.32": {
+        "ts": "https://windows.php.net/downloads/releases/php-8.1.32-Win32-vs16-x64.zip",
+        "nts": "https://windows.php.net/downloads/releases/php-8.1.32-nts-Win32-vs16-x64.zip"
+      },
+      "PHP 8.0.30": {
+        "ts": "https://windows.php.net/downloads/releases/php-8.0.30-Win32-vs16-x64.zip",
+        "nts": "https://windows.php.net/downloads/releases/php-8.0.30-nts-Win32-vs16-x64.zip"
+      },
+      "PHP 7.4.33": {
+        "ts": "https://windows.php.net/downloads/releases/php-7.4.33-Win32-vc15-x64.zip",
+        "nts": "https://windows.php.net/downloads/releases/php-7.4.33-nts-Win32-vc15-x64.zip"
+      }
     },
     "Apache 2.4.63 x32": {
-      "PHP 8.4.5": "https://windows.php.net/downloads/releases/archives/php-8.4.5-Win32-vs17-x86.zip",
-      "PHP 8.3.19": "https://windows.php.net/downloads/releases/archives/php-8.3.19-Win32-vs16-x86.zip",
-      "PHP 8.2.27": "https://windows.php.net/downloads/releases/archives/php-8.2.27-Win32-vs16-x86.zip",
-      "PHP 8.1.31": "https://windows.php.net/downloads/releases/archives/php-8.1.31-Win32-vs16-x86.zip",
-      "PHP 8.0.30": "https://windows.php.net/downloads/releases/archives/php-8.0.30-Win32-vs16-x86.zip",
-      "PHP 7.4.33": "https://windows.php.net/downloads/releases/archives/php-7.4.33-Win32-vc15-x86.zip"
+      "PHP 8.4.8": {
+        "ts": "https://windows.php.net/downloads/releases/php-8.4.8-Win32-vs17-x86.zip",
+        "nts": "https://windows.php.net/downloads/releases/php-8.4.8-nts-Win32-vs17-x86.zip"
+      },
+      "PHP 8.3.22": {
+        "ts": "https://windows.php.net/downloads/releases/php-8.3.22-Win32-vs16-x86.zip",
+        "nts": "https://windows.php.net/downloads/releases/php-8.3.22-nts-Win32-vs16-x86.zip"
+      },
+      "PHP 8.2.28": {
+        "ts": "https://windows.php.net/downloads/releases/php-8.2.28-Win32-vs16-x86.zip",
+        "nts": "https://windows.php.net/downloads/releases/php-8.2.28-nts-Win32-vs16-x86.zip"
+      },
+      "PHP 8.1.32": {
+        "ts": "https://windows.php.net/downloads/releases/php-8.1.32-Win32-vs16-x86.zip",
+        "nts": "https://windows.php.net/downloads/releases/php-8.1.32-nts-Win32-vs16-x86.zip"
+      },
+      "PHP 8.0.30": {
+        "ts": "https://windows.php.net/downloads/releases/php-8.0.30-Win32-vs16-x86.zip",
+        "nts": "https://windows.php.net/downloads/releases/php-8.0.30-nts-Win32-vs16-x86.zip"
+      },
+      "PHP 7.4.33": {
+        "ts": "https://windows.php.net/downloads/releases/php-7.4.33-Win32-vc15-x86.zip",
+        "nts": "https://windows.php.net/downloads/releases/php-7.4.33-nts-Win32-vc15-x86.zip"
+      }
     }
   },
   "vc": {
